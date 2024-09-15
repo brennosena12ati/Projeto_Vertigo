@@ -5,6 +5,10 @@
     font-family: "Titillium Web", sans-serif;
 }
 
+:root {
+    --gray-800: #1E293B;
+}
+
 header{
     background-image: url(./imagens/bg-mobile.png);
     background-size: cover;
@@ -12,5 +16,15 @@ header{
 
     display: flex;
     justify-content: center;
-    aling-intem: center;
+    align-items: center;
+
+    margin-bottom: 3.7rem;
+}
+
+main{
+    padding-inline: 1.5rem;
+}
+
+h1{
+    font-size:
 }
